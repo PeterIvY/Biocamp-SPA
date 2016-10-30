@@ -1,0 +1,20 @@
+body {
+    background-color: olivedrab;
+}
+#about {
+    background-color: beige;
+    width: auto;
+    height: 400px;
+    overflow: scroll;
+}
+#contentContacts {
+      width: auto;
+    height: 400px;
+    overflow: scroll;
+}
+#benefitsContent {
+    width: auto;
+    height: 400px;
+    overflow: scroll;
+}
+
